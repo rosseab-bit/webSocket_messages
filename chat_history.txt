@@ -1,0 +1,30 @@
+Fri Aug 20 15:46:49 2021
+JuanEntrar en la sala de chat ...
+Fri Aug 20 15:46:55 2021
+PedroEntrar en la sala de chat ...
+Fri Aug 20 15:46:59 2021
+Pedro: Hola
+Fri Aug 20 15:47:06 2021
+Juan: Como estas?
+Fri Aug 20 15:47:40 2021
+Juan: Todo josha 
+Fri Aug 20 15:50:57 2021
+JorgeEntrar en la sala de chat ...
+Fri Aug 20 15:51:05 2021
+Jorge: Hola
+Fri Aug 20 15:55:36 2021
+Jorge: --exit
+Fri Aug 20 15:55:41 2021
+JorgeSal de la sala de chat ...
+Fri Aug 20 16:08:38 2021
+Pedro: Hola
+Fri Aug 20 16:08:43 2021
+Pedro: Como estan?
+Fri Aug 20 16:09:22 2021
+Pedro: Hola
+Fri Aug 20 16:09:28 2021
+Juan: Hola pedro
+Mon Mar 21 20:53:21 2022
+RicardoEntrar en la sala de chat ...
+Mon Mar 21 20:53:24 2022
+Ricardo: hola
